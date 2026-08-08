@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0136-single-number) |
 | [1470-shuffle-the-array](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/1480-running-sum-of-1d-array) |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
