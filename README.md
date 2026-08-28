@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0066-plus-one) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0344-reverse-string) |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0344-reverse-string) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
