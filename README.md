@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -52,10 +53,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0018-4sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
