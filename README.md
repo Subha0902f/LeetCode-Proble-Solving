@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0027-remove-element) |
 | [0344-reverse-string](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0005-longest-palindromic-substring) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
