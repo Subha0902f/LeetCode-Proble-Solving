@@ -76,9 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0011-container-with-most-water) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
