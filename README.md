@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0643-maximum-average-subarray-i) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Manacher
 |  |
 | ------- |
