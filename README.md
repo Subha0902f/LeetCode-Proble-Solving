@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0018-4sum) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0704-binary-search) |
 ## String
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0206-reverse-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
