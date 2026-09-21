@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0136-single-number) |
@@ -66,12 +67,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0005-longest-palindromic-substring) |
+| [0049-group-anagrams](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0049-group-anagrams) |
 | [0344-reverse-string](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0344-reverse-string) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0049-group-anagrams) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0048-rotate-image) |
+## Hash Table
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
