@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0136-single-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0704-binary-search) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/1480-running-sum-of-1d-array) |
 ## Simulation
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Binary Search
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0704-binary-search) |
 ## String
 |  |
