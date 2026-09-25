@@ -3,18 +3,18 @@ class Solution {
         if(s.length()!=t.length()){
             return false;
         }
-        char[] chr1 = s.toCharArray();
-        Arrays.sort(chr1);
-        char[] chr2 = t.toCharArray();
-        Arrays.sort(chr2);
-        for(int i=0;i<chr1.length;i++){
-            if(chr1[i]==chr2[i]){
-            continue;
-        }
-        else{
+    HashMap<Character, Integer> map = new HashMap<>();
+    for(int i=0;i<s.length();i++){
+        char sc = s.charAt(i);
+        char tc = t.charAt(i);
+        map.put(sc, map.getOrDefault(sc, 0)+1);
+        map.put(tc, map.getOrDefault(tc, 0)-1);
+    }
+    for(int i: map.values()){
+        if(i!=0){
             return false;
         }
-        }
-        return true;
+    }
+    return true;
     }
 }
