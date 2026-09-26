@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0008-string-to-integer-atoi) |
 | [0049-group-anagrams](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0344-reverse-string) |
 ## Sorting
