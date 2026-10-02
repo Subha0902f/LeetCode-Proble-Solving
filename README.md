@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0268-missing-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0704-binary-search) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -51,11 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0268-missing-number) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -68,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0704-binary-search) |
 ## String
 |  |
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -125,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
