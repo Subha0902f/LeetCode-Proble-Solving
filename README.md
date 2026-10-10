@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0344-reverse-string](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0876-middle-of-the-linked-list) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0268-missing-number) |
 ## Tree
@@ -160,4 +163,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
