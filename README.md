@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0143-reorder-list) |
 | [0344-reverse-string](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0876-middle-of-the-linked-list) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
@@ -166,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
