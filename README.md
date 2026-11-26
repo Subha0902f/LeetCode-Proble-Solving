@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0367-valid-perfect-square) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/Subha0902f/LeetCode-Proble-Solving/tree/master/0704-binary-search) |
 ## String
 |  |
